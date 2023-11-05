@@ -6,7 +6,7 @@ Dead-simple Hugo theme with Netlify CMS integration. Intended to be a starter fo
 
 Use the deploy button to get your own copy of the repository.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ericmurphyxyz/hugo-starter-netlify-cms&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/serbia580/hugo-starter-netlify-cms&stack=cms)
 
 This will setup everything needed for running the CMS:
 
